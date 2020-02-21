@@ -1,0 +1,9 @@
+div { background-color: darkgrey;  text-align: center; align-content: center; margin: auto; width: auto; padding: 50px; width: 60% }
+html { background-color: #ff6347; overflow: hidden;}
+html.rose { background-color: #ff3d3d}
+html.ros { background-color: #0058ff}
+img { width: 200px; height: auto }
+div.love { background-color: #ff6347; }
+div.love2 { background-color: #9aebff; }
+div.love1 { text-align: right; padding: 100px; width: 50px; height: 10px; background-color: #0058ff; }
+a {  }
